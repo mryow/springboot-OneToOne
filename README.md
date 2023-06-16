@@ -32,10 +32,10 @@ cd springboot-one-to-one-relationship
 	mvn spring-boot:run
 4. Open your web browser and visit http://localhost:8080 to access the application.
 
-## caoution
+## caution
 I attached application.properties just for demo, don't do it when in production !
 
-License
+##License
 This project is licensed under the MIT License, which means you are free to use it for any purpose, commercial or non-commercial, without any restrictions.
 Contributing
 Contributions are welcome! If you find any issues or want to add new features, please submit a pull request.
